@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Camila Leite Costa CV</title>
+</head>
+
+<link rel="stylesheet" href="css/styles.css">
+<body>
+  <table cellspacing="20">
+    <td><img src="https://i.ibb.co/gWdNX5g/camila-foto-circle.png" alt="Camila Costa"></td>
+    <td>
+      <h1>Camila Leite Costa</h1>
+      <p><em>Procuro oportunidade de ingressar na carreira de Data Science e Business Inteligence focada na área financeira</em></p>
+      <p> Cursando tecnólogo em Ciência de Dados pela Estácio.</p>
+    </td>
+  </table 
+
+  <hr>
+  <h3>Formação acadêmica e complementar</h3>
+  <ul>
+    <li>Ciência de Dados - Cursando, <a href="https://portal.estacio.br/">ESTÁCIO SÃO PAULO - Centro Universitário Estácio de São Paulo</a></li>
+    <li>Administração de Empresas - Concluído, <a href="http://www.faap.br/">FAAP - FACULDADE ARMANDO ALVARES PENTEADO</a></li>
+  </ul>
+  <h3>Cursos Complementares</h3>
+  <ol>
+    <li>Power BI Desktop</li>
+    <li>Python - Cursando</li>
+    <li>Java Script</li>
+    <li>SAP - Overview Training</li>
+    <li>SAP BW/4HANA</li>
+  </ol>
+  <hr>
+  <h3>Um pouco mais sobre mim</h3>
+  <p>Trabalhei por 14 anos nas áreas administrativas e financeiras. Em 2013 comecei a me aproximar do mercado financeiro, aos poucos fui me aprofundando em análise fundamentalista de ações, mais tarde, fiz um curso preparatório para o exame da Ancord a convite da corretora XP.
+  <p>Minha intenção era de fato me consolidar como Analista e para tanto, precisaria de outra certificação - a CNPI. Neste momento, fui convidada para trabalhar como operadora de câmbio em uma fintech. Acabei por aceitar o desafio e foi uma experiência incrível.
+  <p>Durante toda minha jornada profissional, sempre fui apaixonada pela análise de dados, encontrar as melhores métricas e KPI´s. Além de usar esse conhecimento profissionalmente, comecei a fazer também planilhas e Dashboards para as análises das companhias listadas na Bolsa</p>
+  
+    Acredito que toda crise, por mais triste que seja, gera também oportunidades. E foi em meio a pandemia que decidi mudar o rumo de minha carreira.
+  </blockquote>
+  <p>Comecei a procurar cursos e mais cursos para me preparar para ser uma Cientista de Dados</p>
+  <hr>
+  <h3>Software / Thecnical Skilss</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>EXCEL</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>POWER BI</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>JAVASCRIPT</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>PYTHON</td>
+      <td>⭐⭐⭐⭐<td>
+    </tr>
+      <tr>
+        <td>ESTATÍSTICA</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>MODELAGEM DE DADOS</td>
+        <td>⭐⭐⭐</td>
+          </tr>
+    </table>
+    <h3>Personal Skilss</h3>
+    <table cellspacing="10">
+      <tr>
+        <td>INTEGRIDADE</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>FLEXIBILIDADE</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>COMUNICAÇÃO</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>IMPROVISAÇÃO</td>
+        <td>⭐⭐⭐⭐⭐<td>
+      </tr>
+        <tr>
+          <td>RESILIÊNCIA</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          <td>COMPROMETIMENTO</td>
+          <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+      </table>
+      <h3>Meus Hobbies</h3>
+      <ul>
+        <li>Aquarismo</li>
+        <li>Leitura</li>
+        <li>Viajens</li>
+        <li>Cozinhar</li>
+      </ul>
+</body>
+
+</html>
